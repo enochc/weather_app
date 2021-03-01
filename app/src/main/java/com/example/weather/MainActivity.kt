@@ -27,10 +27,9 @@ import com.google.android.gms.location.LocationServices
 
 
 /**
- * weather: api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=c87aa0a81a65b025ba64901b64347e80
+ * weather: api.openweathermap.org/data/2.5/weather?q=London,uk&APPID={API key}
  * api.openweathermap.org/data/2.5/weather?id={city id}&appid={API key}
  * icon url http://openweathermap.org/img/w/01n.png
-
  */
 
 fun debug(s: String) {

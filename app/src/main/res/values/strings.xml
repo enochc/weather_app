@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="action_settings">Hello</string>
+
+    <!--    \u2109  -->
+    <string name="degrees">%1$d ℉</string>
+    <string name="pop">Percent precipitation: %1$.2f mm/h</string>
+    <string name="high">High: %1$d ℉</string>
+    <string name="low">Low: %1$d ℉</string>
+    <string name="current">Current Temp: %1$d ℉</string>
+    <string name="wind">Wind: %1$d mph</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="select_a_city">Select a City</string>
+    <string name="add_city">Add City</string>
+</resources>

@@ -4,13 +4,14 @@ plugins {
 }
 
 android {
-    compileSdkVersion 30
+    namespace 'com.example.weather'
+    compileSdkVersion 33
     testOptions.unitTests.includeAndroidResources = true
 
     defaultConfig {
         applicationId "com.example.weather"
         minSdkVersion 23
-        targetSdkVersion 30
+        targetSdkVersion 33
         versionCode 1
         versionName "1.0"
 
